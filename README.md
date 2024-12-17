@@ -16,7 +16,7 @@ Este é um dos meus primeiros projetos utilizando JavaScript! Trata-se de uma ap
 - JavaScript
 
 ## 🎯 Aprendizados
-Durante o desenvolvimento deste projeto, pude aprender e praticar:
+Durante o desenvolvimento deste projeto, pratiquei:
 - Manipulação do DOM
 - Eventos em JavaScript
 - Armazenamento local (localStorage)
