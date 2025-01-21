@@ -23,3 +23,5 @@ Durante o desenvolvimento deste projeto, pratiquei:
 - Criação de elementos HTML dinamicamente
 - Funções em JavaScript
   
+## To do list
+![image](https://github.com/user-attachments/assets/b1b14e54-e2bf-4112-b6b6-840c540f5430)
